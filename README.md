@@ -1,4 +1,6 @@
 <h3 align="center">Founding Software Engineer</h3>
+<h4 align="center">I scaffold startups and ship products to life.</h4>
+<h6 align="center">Worked @Microsoft @bld.ai @Taza @Papyri.app</h6>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrr2000&label=Profile%20views&color=0e75b6&style=flat" alt="hrr2000" /> </p>
 <div style="text-align: center;">
 <h3 align="center">Connect with me:</h3>
